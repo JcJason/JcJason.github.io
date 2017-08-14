@@ -1,5 +1,4 @@
-# JcJason.github.io
-Jc的博客
+# Jc的博客
 This is my demo Blogging.
 
 ```markdown
