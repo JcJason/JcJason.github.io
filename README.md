@@ -14,4 +14,5 @@ I'll post it here for everyone.
 [原来Github上的README.md文件这么有意思——Markdown语言详解](http://blog.csdn.net/zhaokaiqiang1992/article/details/41349819)
 
 用“#”创建标题已经会了，添加图片和强调暂时还不用，代码也会贴，换行这次不知道能不能成功，链接给上面的资料套一个试试，分割线用于分割每次学到的新内容吧！
+
 原来那个README.md是一个markdown文件，用于描述项目的，只是被我用来写博客啦，哈哈哈！
