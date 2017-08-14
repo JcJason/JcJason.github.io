@@ -23,4 +23,5 @@ Syntax highlighted code block
 ```markdown
 emm...
 Like this?
+WOOOOOOOW!
 ```
